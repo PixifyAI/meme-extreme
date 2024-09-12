@@ -1,0 +1,6 @@
+gradio
+requests
+runware
+python-dotenv
+asyncio
+openai
