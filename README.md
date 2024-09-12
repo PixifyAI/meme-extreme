@@ -20,7 +20,7 @@ This project is a Python-based web application for generating memes using two AP
 2. **Runware API**: Generates images based on the image descriptions provided by the LMStudio API.
 
 ![MemeExtreme](UI.png)
-![MemeExtreme](UI1.png)
+![MemeExtreme](UI3.png)
 ![MemeExtreme](UI2.png)
 
 ## Key Features
